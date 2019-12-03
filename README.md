@@ -1,3 +1,3 @@
-## CS61 Project -  Hog
+## CS61 Project 
 
-by keyan
+Cs 61 project 1 Hog
